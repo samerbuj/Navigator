@@ -1,0 +1,1 @@
+El archivo idea.rar contiene una carpeta oculta llamada .idea, descomprimir antes de hacer nada.
